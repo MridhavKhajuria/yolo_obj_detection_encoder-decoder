@@ -1,0 +1,15 @@
+path: data
+train: train/images
+val: val/images
+
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: bus
+  5: truck
+  6: bird
+  7: cat
+  8: dog
+  9: horse
